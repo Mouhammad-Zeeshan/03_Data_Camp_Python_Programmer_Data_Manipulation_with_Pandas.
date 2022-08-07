@@ -1,0 +1,26 @@
+03 - Pandas:
+Key_Words:
+
+**Chapter-01:
+1. Data Frame
+2. head, info, shape, describe
+3. Columns and Index
+4. Sorting, Subsetting by logics, isin, and or,
+5. Adding Column derived by existing data.
+
+**Chapter-02:
+1. mean,median,mode,min,max,var,std,Sum,Quantile.  
+2. drop.duplicates, value_counts.
+3. groupby, groupby with agg.
+4. Pivot tables, missing value, fill value, margins.
+
+**Chapter-03:
+1. columns, index, set_index, reset_index, loc, iloc, sort_index.
+2. Slicing, axis argument.
+ 
+**Chapter-04:
+1. Histogram, bins, Scatter plot, legend.
+2. isna, isna.any, isna.sum, dropna, fillna.
+3. list of dictionaries, from dictionary of list.
+4. CSV, reading, writing.
+ 
